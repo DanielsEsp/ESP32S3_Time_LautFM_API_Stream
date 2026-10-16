@@ -19,3 +19,6 @@ stope la lecture et affiche à nouveau l'horloge.
 
 Le montage permet le branchement de 1 ou 2 modules MAX98357A pour le raccordement 
 à des HP de faible puissance ou un module PCM5102A pour piloter un entrée line d'ampli.
+
+EVOLUTION, mode enregistrement Manuel et Auto-stop du stream et lecture des enregistrements.
+AJOUT d'un ESP32 DevKit pour la sortie Bluetooth.
