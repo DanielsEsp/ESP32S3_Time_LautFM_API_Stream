@@ -22,3 +22,6 @@ Le montage permet le branchement de 1 ou 2 modules MAX98357A pour le raccordemen
 
 EVOLUTION, mode enregistrement Manuel et Auto-stop du stream et lecture des enregistrements.
 AJOUT d'un ESP32 DevKit pour la sortie Bluetooth.
+
+<img width="2453" height="2202" alt="LautFM_BT_JBL" src="https://github.com/user-attachments/assets/70de1305-973a-43a2-a949-1cbbeadc518f" />
+
