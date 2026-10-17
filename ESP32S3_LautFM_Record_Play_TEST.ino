@@ -39,7 +39,7 @@ const char* WIFI_PASS = "PASS";
 #define TP_ADDR 0x38
 #define TP_SDA  8
 #define TP_SCL  9
-#define TP_RST  16
+#define TP_RST  -1
 
 // Carte SD (bus SPI séparé de l'écran)
 #define SD_CS   38
